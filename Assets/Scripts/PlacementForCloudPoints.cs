@@ -31,7 +31,6 @@ public class PlacementForCloudPoints : MonoBehaviour
     { 
         welcomePanel.SetActive(false);
         arcloudpoints.SetActive(false);
-
     }
 
     //void Update()

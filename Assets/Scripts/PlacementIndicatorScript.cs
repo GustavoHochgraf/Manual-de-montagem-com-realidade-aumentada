@@ -8,6 +8,8 @@ public class PlacementIndicatorScript : MonoBehaviour
 {
     private ARRaycastManager rayManager;
     private GameObject visual;
+    [SerializeField]
+    private GameObject welcomePanel;
 
     private void Start()
     {
@@ -23,6 +25,7 @@ public class PlacementIndicatorScript : MonoBehaviour
         rayManager.Raycast(new Vector2(Screen.width / 2, Screen.height / 2), hits, TrackableType.Planes);
         if (hits.Count > 0)
         {
+            welcomePanel.SetActive(false);
             transform.position = hits[0].pose.position;
             transform.rotation = hits[0].pose.rotation;
 
