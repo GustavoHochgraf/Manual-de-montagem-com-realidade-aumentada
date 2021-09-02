@@ -969,7 +969,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SerializedLibrary: {fileID: 11400000, guid: 20d4bf80e632f854fbdc6739ec748b4e, type: 2}
   m_MaxNumberOfMovingImages: 1
-  m_TrackedImagePrefab: {fileID: 4239555708298958641, guid: 751ec36990b061e49aa7eb2718520164, type: 3}
+  m_TrackedImagePrefab: {fileID: 8681606286345482715, guid: 751ec36990b061e49aa7eb2718520164, type: 3}
 --- !u!1 &541500479
 GameObject:
   m_ObjectHideFlags: 0
@@ -1362,7 +1362,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   btnProximo: {fileID: 170393247}
   btnAnterior: {fileID: 776300667}
-  baseGarraAnim: {fileID: 0}
+  baseGarraAnim: {fileID: 8681606286345482712, guid: 751ec36990b061e49aa7eb2718520164, type: 3}
+  imagemanager: {fileID: 446258022}
 --- !u!1 &776300665
 GameObject:
   m_ObjectHideFlags: 0

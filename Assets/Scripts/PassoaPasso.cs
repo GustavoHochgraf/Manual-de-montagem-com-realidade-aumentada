@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.XR.ARFoundation;
 
 public class PassoaPasso : MonoBehaviour
 {
@@ -9,23 +10,28 @@ public class PassoaPasso : MonoBehaviour
     private Button btnProximo;
     [SerializeField]
     private Button btnAnterior;
+    //[SerializeField]
+    //private Animator baseGarraAnim;
     [SerializeField]
-    private Animator baseGarraAnim;
-
+    private ARTrackedImageManager imagemanager;
 
     void Awake()
     {
         btnProximo.onClick.AddListener(Proximo);
         btnAnterior.onClick.AddListener(Anterior);
     }
-
+//af
     private void Proximo()
     {
-        baseGarraAnim.SetBool("basePlacement", true);
+        GameObject prefabi =  imagemanager.trackedImagePrefab;
+        Animator animator = prefabi.GetComponent<Animator>(); 
+        animator.SetBool("anim1bool", true);
     }
     private void Anterior()
     {
-        baseGarraAnim.SetBool("basePlacement", false);
+        GameObject prefabi = imagemanager.trackedImagePrefab;
+        Animator animator = prefabi.GetComponent<Animator>();
+        animator.SetBool("anim1bool", false);
     }
 
 }
