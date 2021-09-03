@@ -1,9 +1,9 @@
 {
-    "m_SelectedDeviceId": "RQ8M20L8MTZ",
+    "m_SelectedDeviceId": "RQ8N203638M",
     "m_SelectedPackage": {
-        "deviceId": "RQ8M20L8MTZ",
+        "deviceId": "RQ8N203638M",
         "name": "com.HochgrafCorp.ManualRA",
-        "processId": 32699,
+        "processId": 12831,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -84,6 +84,18 @@
             "deviceId": "RQ8M20L8MTZ",
             "name": "com.HochgrafCorp.ManualRA",
             "processId": 32699,
+            "exited": false
+        },
+        {
+            "deviceId": "RQ8N203638M",
+            "name": "com.HochgrafCorp.ManualRA",
+            "processId": 12748,
+            "exited": false
+        },
+        {
+            "deviceId": "RQ8N203638M",
+            "name": "com.HochgrafCorp.ManualRA",
+            "processId": 12831,
             "exited": false
         }
     ],
