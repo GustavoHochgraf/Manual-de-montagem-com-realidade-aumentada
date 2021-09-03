@@ -24,4 +24,4 @@ MonoBehaviour:
     m_Size: {x: 0.095, y: 0.095}
     m_SpecifySize: 1
     m_Name: Basetracker
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 2706e76c53d2cab4ca110e644ede04c0, type: 3}

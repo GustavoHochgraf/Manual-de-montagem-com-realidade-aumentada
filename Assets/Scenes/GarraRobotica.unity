@@ -1362,8 +1362,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   btnProximo: {fileID: 170393247}
   btnAnterior: {fileID: 776300667}
-  baseGarraAnim: {fileID: 8681606286345482712, guid: 751ec36990b061e49aa7eb2718520164, type: 3}
-  imagemanager: {fileID: 446258022}
 --- !u!1 &776300665
 GameObject:
   m_ObjectHideFlags: 0

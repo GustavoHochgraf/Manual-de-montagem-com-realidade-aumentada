@@ -13,24 +13,23 @@ public class PassoaPasso : MonoBehaviour
     //[SerializeField]
     //private Animator baseGarraAnim;
     [SerializeField]
-    private ARTrackedImageManager imagemanager;
+    private 
 
     void Awake()
     {
         btnProximo.onClick.AddListener(Proximo);
         btnAnterior.onClick.AddListener(Anterior);
     }
-//af
     private void Proximo()
     {
-        GameObject prefabi =  imagemanager.trackedImagePrefab;
-        Animator animator = prefabi.GetComponent<Animator>(); 
+        ARTrackedImage trackedimage = FindObjectOfType<ARTrackedImage>();
+        Animator animator = trackedimage.GetComponent<Animator>();
         animator.SetBool("anim1bool", true);
     }
     private void Anterior()
     {
-        GameObject prefabi = imagemanager.trackedImagePrefab;
-        Animator animator = prefabi.GetComponent<Animator>();
+        ARTrackedImage trackedimage = FindObjectOfType<ARTrackedImage>();
+        Animator animator = trackedimage.GetComponent<Animator>();
         animator.SetBool("anim1bool", false);
     }
 
