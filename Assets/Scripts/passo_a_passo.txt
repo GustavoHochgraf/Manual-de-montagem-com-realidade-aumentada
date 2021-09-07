@@ -1,3 +1,31 @@
-Pegue a base de sua garra
-Conecte os cuportes de borracha na bases na base e depois coloque os parafusos
-Coloque as porcas sobre os parafusos, coloque o servo motor junto com seus parafusos e seu suporte na base
+Pegue a base(1) de sua garra
+Cole os suportes de borracha na base e depois coloque os parafusos 20mm. Reserve essa base ao lado
+Faça a montagem do servo da base. Una a placa(2), o colar(3) e o servo base, fixando o conjunto com parafusos 8mm
+Pegue a base e rosqueie as porcas até a metade. Encaixe o conjunto do servo base
+Rosqueie as porcas da base até o final e reserve esse conjunto
+anim5
+anim6
+anim7
+anim8
+anim9
+anim10
+anim11
+anim12
+anim13
+anim14
+anim15
+anim16
+anim17
+anim18
+anim19
+anim20
+anim21
+anim22
+anim23
+anim24
+anim25
+anim26
+anim27
+anim28
+anim29
+anim30

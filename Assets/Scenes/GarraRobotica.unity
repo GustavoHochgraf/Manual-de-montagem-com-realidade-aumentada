@@ -1227,7 +1227,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   btnProximo: {fileID: 170393247}
   btnAnterior: {fileID: 776300667}
-  maxiAnim: 3
+  maxiAnim: 21
   textFile: {fileID: 4900000, guid: 8be236ae1d0e0a5418d1831a69508087, type: 3}
   painelTextoGuia: {fileID: 1837464728}
 --- !u!1 &776300665
