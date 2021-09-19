@@ -1,31 +1,32 @@
 Pegue a base(1) de sua garra
 Cole os suportes de borracha na base e depois coloque os parafusos 20mm. Reserve essa base ao lado
-Faça a montagem do servo da base. Una a placa(2), o colar(3) e o servo base, fixando o conjunto com parafusos 8mm
-Pegue a base e rosqueie as porcas até a metade. Encaixe o conjunto do servo base
-Rosqueie as porcas da base até o final e reserve esse conjunto
-anim5
-anim6
-anim7
-anim8
-anim9
-anim10
-anim11
-anim12
-anim13
-anim14
-anim15
-anim16
-anim17
-anim18
-anim19
-anim20
-anim21
-anim22
-anim23
-anim24
-anim25
-anim26
-anim27
-anim28
-anim29
-anim30
+Faça a montagem do servo da base. Una a placa(2), o colar(3) e o servo, fixando o conjunto com parafusos 8mm.
+Pegue a base e rosqueie as porcas ate a metade. Encaixe o conjunto do servo base
+Rosqueie as porcas da base ate o final e reserve esse conjunto
+Monte a placa(4), um servo e o colar(5), fixando com parafusos 8mm. As abas do servo devem ficar entre as pecas. Reserve.
+Fixe o braco do servo no braco esquerdo(6).
+Fixe essa montagem do braco no servo. Este e o conjunto do servo esquerdo. Reserve.
+Monte a placa(12), um servo e o colar(5), fixando com parafusos 8mm. As abas do servo devem ficar entre as pecas. Reserve.
+Fixe o braco do servo no braco direito(13). Reserve.
+Fixe um braco paralelo(17) na parte externa da montagem do servo direito. Use um parafuso 6mm.
+Fixe a montagem do braco direito no servo. Este e o conjunto do lado direito. Reserve.
+Monte a mesa de montagem(8), a junta base(10) e o braco esquerdo curto(9). Fixe com um parafuso 10mm. Reserve.
+Fixe o braco do servo na placa base(14). Reserve.
+Pegue a montagem do lado esquerdo e una o travessão frontal(7). Insira uma porca no alojamento do travessão e fixe com parafuso 12mm.
+Una a montagem da mesa no centro do travessão. Una o braco curto com o braco esquerdo, acrescentando um braco paralelo(17) e um espacador(20), usando parafuso de 12mm.
+Encaixe a montagem da placa base nesse conjunto.
+Monte o travessao traseiro(11) no conjunto. Encaixe uma porca no alojamento e fixe com parafuso 12mm.
+Encaixe e fixe a trama central(15) na junta base(10). Use parafuso 12mm com a porca alojada.
+Junte a montagem do servo direito. Encaixe nos travessoes, placa base e trama central. Use parafuso 12mm e porca para fixar o braco direito(13) na trama central(15).
+Acrescente os parafusos e porcas do lado direito dos travessoes.
+Fixe esse conjunto no servo da base.
+Una o pulso esquerdo(16) na montagem, fixando no braco paralelo e na junta esquerda com parafuso 6mm.
+Monte o pulso direito(31) no braco direito. Acrescente o conector de pulsos(18) entre eles.
+Encaixe o link(19) do lado direito. Use um espacador entre o braco paralelo. Junte outro braco paralelo(17) no link. Reserve.
+Monte o servo da pinca. Una a placa inferior(24), ligacao esquerda(22), ligacacao direita(23), servo e colar(21). Fixe com parafusos 8mm.
+Acrescente as pinças(27/28) e placa da pinca(25). Fixe a pinca direita com parafuso 12mm e a esquerda com 8mm.
+Junte a engrenagem superior(30) com o braco do servo.
+Agora encaixe a engrenagem da pinca(26) e a engrenagem inferior(29). Fixe com parafusos 6mm.
+Monte esse conjunto da pinca nos bracos da garra. Do lado direito, coloque um espacador(20) e fixe o conjunto.
+Finalize a montagem com o parafuso do lado esquerdo.
+Montagem da garra robotica finalizada!
