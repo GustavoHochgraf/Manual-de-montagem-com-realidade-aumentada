@@ -10,4 +10,5 @@ Tecnologias utilizadas:
 - ARFoundation
 - ARCore
 
-<img height='100' alt="Imagem" color="red" draggable="true" src="https://github.com/GustavoHochgraf/Manual-de-montagem-com-realidade-aumentada/blob/master/Assets/Garra/Imagens/qr-code-mack.png" class="css-9pa8cd">
+QR-Code para uso como marcador:
+<img height='200' alt="Imagem" color="red" draggable="true" src="https://github.com/GustavoHochgraf/Manual-de-montagem-com-realidade-aumentada/blob/master/Assets/Garra/Imagens/qr-code-mack.png" class="css-9pa8cd">
